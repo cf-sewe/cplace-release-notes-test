@@ -1,7 +1,7 @@
 # cplace-release-notes-test
 
 Repo for testing cplace release note generation.
-This repo simulates an typical cplace integration repo and includes a `parent-repos.json file which defines the child repositories to be included.
+This repo simulates an typical cplace integration repo and includes a `parent-repos.json` file which defines the child repositories to be included.
 
 cplace release notes are generated using [cplace-cli](https://github.com/collaborationFactory/cplace-npm-tools/), so please make sure it is installed.
 
