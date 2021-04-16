@@ -1,10 +1,11 @@
 {
-    "cplace-release-notes-child1": {
-      "url": "git@github.com:cf-sewe/cplace-release-notes-child1.git",
-      "branch": "main"
-    },
-    "cplace-release-notes-child2": {
-        "url": "git@github.com:cf-sewe/cplace-release-notes-child2.git",
-        "branch": "main"
-    }
+  "cplace-release-notes-child1": {
+    "url": "git@github.com:cf-sewe/cplace-release-notes-child1.git",
+    "branch": "main",
+    "description": "Release Notes Child 1"
+  },
+  "cplace-release-notes-child2": {
+    "url": "git@github.com:cf-sewe/cplace-release-notes-child2.git",
+    "branch": "main"
+  }
 }
