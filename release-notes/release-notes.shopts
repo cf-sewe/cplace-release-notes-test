@@ -1,11 +1,8 @@
 # Options
 
-BRANCH_FROM="deployment/5.2.1"
-BRANCH_TO="deployment/5.7.0"
-#EXCLUDE="cplace-mtu-fdm,"
+BRANCH_FROM="main"
 
-FRIENDLY_VERSION="${BRANCH_TO##release/}"
-FRIENDLY_VERSION="${BRANCH_TO##deployment/}"
-FRIENDLY_CUSTOMER="MTU Aero Engines"
+FRIENDLY_VERSION="1.2.3"
+FRIENDLY_CUSTOMER="sewe test"
 
-# EOF
+#EOF
